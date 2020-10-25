@@ -1,12 +1,12 @@
 travail à faire sur le forum : (marquer "FAIT" à côté des tâches une fois finies pour bien répartir le travail svp)
 
-- renommer le title pcq << Mon super forum >> c'est éclaté  
+- renommer le title pcq << Mon super forum >> c'est éclaté   FAIT
 
-- intégrer SHA1 sur les mots de passe
+- intégrer SHA1 sur les mots de passe   
 
 - intégrer le bootstrap CSS sur le site 
 
-- probablement un espace admin (jsp s'il l'a demandé Delprat)
+- probablement un espace admin (jsp s'il l'a demandé Delprat) 
 
 - recentrer les noms par rapport aux menus (exemple jeux touche le bas de sa box, le centrer dans la box)
 
